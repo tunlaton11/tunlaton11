@@ -6,9 +6,11 @@ My interests are in Data Science, Image Processing, Web Developing. I'll try my 
 # Tools & Technologies
 <ul>
   <li>Python</li>
-  <li>HTML, CSS, JavaScipt/li>
+  <li>Django Framework</li>
+  <li>HTML, CSS, JavaScipt</li>
   <li>Java</li>
-  <li>PHP/li>
-  <li>Linux/li>
+  <li>PHP</li>
+  <li>Linux</li>
+  <li>MySQL, Neo4j, MongoDB</li>
   
 </ul>
