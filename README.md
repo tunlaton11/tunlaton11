@@ -12,5 +12,6 @@ My interests are in Data Science, Image Processing, Web Developing. I'll try my 
   <li>PHP</li>
   <li>Linux</li>
   <li>MySQL, Neo4j, MongoDB</li>
+  <li>Git</li>
   
 </ul>
