@@ -7,7 +7,7 @@ My interests are in Data Science, Image Processing, Web Developing. I'll try my 
 <ul>
   <li>Python</li>
   <li>Django Framework</li>
-  <li>HTML, CSS, JavaScipt</li>
+  <li>HTML, CSS, JavaScript</li>
   <li>Java</li>
   <li>PHP</li>
   <li>Linux</li>
