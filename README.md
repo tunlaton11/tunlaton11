@@ -6,7 +6,7 @@ My interests are in Data Science, Image Processing, Web Developing. I'll try my 
 # Tools & Technologies  <img src="https://cdn-icons.flaticon.com/png/512/2276/premium/2276332.png?token=exp=1633689153~hmac=738038cfc1ce876d79085d3ca5903b40" width="30px">
 <ul>
   <li>Python</li>
-  <li>Django Framework</li>
+  <li>Django Framework/ Django Rest Framework</li>
   <li>HTML, CSS, JavaScript</li>
   <li>Java</li>
   <li>PHP</li>
